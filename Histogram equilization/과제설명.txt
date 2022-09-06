@@ -1,0 +1,10 @@
+Histrogram equilization을 OpenCV 함수가 아닌 직접구현한다
+  단 히스토그램 계산은 calchist를 사용해도 된다.
+
+1: grayscale 이미지에 대한 Histogram equilization을 실행하여 색대비를 최대하 하라
+
+2: 각각의 컬러채널에 대한 Histogram equilization을 실행하여 color equilization을 실행하라
+
+각각의 Histogram은 이전 이후를 각각 창으로 출력
+
+실행코드 + 각각의 이미지 화면 출력후 제출
